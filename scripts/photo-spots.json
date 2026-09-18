@@ -1,0 +1,598 @@
+{
+  "week": {
+    "title": "The week",
+    "want": 12,
+    "radius": 0,
+    "categories": [
+      "Cycling in Mallorca",
+      "Cycling in the Balearic Islands"
+    ],
+    "spots": [],
+    "cyclingPlaces": [
+      "Mallorca",
+      "Serra de Tramuntana",
+      "Ma-10"
+    ]
+  },
+  "day-1": {
+    "title": "Day 1, Cap de Formentor",
+    "want": 25,
+    "radius": 3000,
+    "categories": [
+      "Cap de Formentor",
+      "Far de Formentor",
+      "Mirador des Colomer"
+    ],
+    "spots": [
+      {
+        "name": "cap",
+        "lat": 39.961,
+        "lon": 3.21
+      },
+      {
+        "name": "mir",
+        "lat": 39.927,
+        "lon": 3.111
+      },
+      {
+        "name": "fbeach",
+        "lat": 39.928,
+        "lon": 3.138
+      },
+      {
+        "name": "csv",
+        "lat": 39.92,
+        "lon": 3.056
+      },
+      {
+        "name": "pp",
+        "lat": 39.905,
+        "lon": 3.083
+      }
+    ],
+    "cyclingPlaces": [
+      "Cap de Formentor",
+      "Formentor"
+    ]
+  },
+  "day-2": {
+    "title": "Day 2, Sa Calobra",
+    "want": 25,
+    "radius": 3000,
+    "categories": [
+      "Sa Calobra",
+      "Coll dels Reis",
+      "Coll de Femenia"
+    ],
+    "spots": [
+      {
+        "name": "calobra",
+        "lat": 39.851,
+        "lon": 2.8
+      },
+      {
+        "name": "reis",
+        "lat": 39.833,
+        "lon": 2.817
+      },
+      {
+        "name": "fem",
+        "lat": 39.853,
+        "lon": 2.935
+      },
+      {
+        "name": "lluc",
+        "lat": 39.822,
+        "lon": 2.884
+      },
+      {
+        "name": "caim",
+        "lat": 39.77,
+        "lon": 2.9
+      },
+      {
+        "name": "camp",
+        "lat": 39.775,
+        "lon": 2.965
+      },
+      {
+        "name": "pol",
+        "lat": 39.877,
+        "lon": 3.016
+      },
+      {
+        "name": "pp",
+        "lat": 39.905,
+        "lon": 3.083
+      }
+    ],
+    "cyclingPlaces": [
+      "Sa Calobra",
+      "Coll dels Reis"
+    ]
+  },
+  "day-3": {
+    "title": "Day 3, Victoria Peninsula",
+    "want": 25,
+    "radius": 3000,
+    "categories": [
+      "Ermita de la Victòria",
+      "Murades d'Alcúdia"
+    ],
+    "spots": [
+      {
+        "name": "erm",
+        "lat": 39.874,
+        "lon": 3.168
+      },
+      {
+        "name": "alc",
+        "lat": 39.853,
+        "lon": 3.121
+      },
+      {
+        "name": "malpas",
+        "lat": 39.868,
+        "lon": 3.143
+      },
+      {
+        "name": "pp",
+        "lat": 39.905,
+        "lon": 3.083
+      }
+    ],
+    "cyclingPlaces": [
+      "Alcúdia",
+      "Port de Pollença"
+    ]
+  },
+  "day-4": {
+    "title": "Day 4, Port de Pollença to Deià",
+    "want": 25,
+    "radius": 3000,
+    "categories": [
+      "Coll de Sóller",
+      "Orient (Mallorca)",
+      "Alaró"
+    ],
+    "spots": [
+      {
+        "name": "pp",
+        "lat": 39.905,
+        "lon": 3.083
+      },
+      {
+        "name": "camp",
+        "lat": 39.775,
+        "lon": 2.965
+      },
+      {
+        "name": "selva",
+        "lat": 39.755,
+        "lon": 2.9
+      },
+      {
+        "name": "alaro",
+        "lat": 39.705,
+        "lon": 2.79
+      },
+      {
+        "name": "orient",
+        "lat": 39.735,
+        "lon": 2.773
+      },
+      {
+        "name": "buny",
+        "lat": 39.696,
+        "lon": 2.699
+      },
+      {
+        "name": "csoller",
+        "lat": 39.735,
+        "lon": 2.689
+      },
+      {
+        "name": "soller",
+        "lat": 39.766,
+        "lon": 2.715
+      },
+      {
+        "name": "deia",
+        "lat": 39.748,
+        "lon": 2.648
+      }
+    ],
+    "cyclingPlaces": [
+      "Coll de Sóller",
+      "Orient Mallorca"
+    ]
+  },
+  "day-5": {
+    "title": "Day 5, Andratx loop",
+    "want": 25,
+    "radius": 3000,
+    "categories": [
+      "Banyalbufar",
+      "Estellencs",
+      "Ma-10",
+      "Torre del Verger"
+    ],
+    "spots": [
+      {
+        "name": "deia",
+        "lat": 39.748,
+        "lon": 2.648
+      },
+      {
+        "name": "vall",
+        "lat": 39.71,
+        "lon": 2.622
+      },
+      {
+        "name": "bany",
+        "lat": 39.688,
+        "lon": 2.514
+      },
+      {
+        "name": "est",
+        "lat": 39.653,
+        "lon": 2.481
+      },
+      {
+        "name": "gram",
+        "lat": 39.606,
+        "lon": 2.413
+      },
+      {
+        "name": "andr",
+        "lat": 39.575,
+        "lon": 2.42
+      },
+      {
+        "name": "gal",
+        "lat": 39.6,
+        "lon": 2.51
+      },
+      {
+        "name": "puig",
+        "lat": 39.622,
+        "lon": 2.527
+      },
+      {
+        "name": "espo",
+        "lat": 39.667,
+        "lon": 2.578
+      }
+    ],
+    "cyclingPlaces": [
+      "Banyalbufar",
+      "Estellencs",
+      "Andratx"
+    ]
+  },
+  "day-6": {
+    "title": "Day 6, Fornalutx and Port de Sóller",
+    "want": 25,
+    "radius": 3000,
+    "categories": [
+      "Fornalutx",
+      "Port de Sóller",
+      "Deià"
+    ],
+    "spots": [
+      {
+        "name": "deia",
+        "lat": 39.748,
+        "lon": 2.648
+      },
+      {
+        "name": "soller",
+        "lat": 39.766,
+        "lon": 2.715
+      },
+      {
+        "name": "forn",
+        "lat": 39.783,
+        "lon": 2.741
+      },
+      {
+        "name": "psoller",
+        "lat": 39.795,
+        "lon": 2.695
+      }
+    ],
+    "cyclingPlaces": [
+      "Port de Sóller",
+      "Fornalutx"
+    ]
+  },
+  "day-7": {
+    "title": "Day 7, Out of the Tramuntana",
+    "want": 25,
+    "radius": 3000,
+    "categories": [
+      "Sineu",
+      "Binissalem",
+      "Valldemossa"
+    ],
+    "spots": [
+      {
+        "name": "deia",
+        "lat": 39.748,
+        "lon": 2.648
+      },
+      {
+        "name": "vall",
+        "lat": 39.71,
+        "lon": 2.622
+      },
+      {
+        "name": "stam",
+        "lat": 39.65,
+        "lon": 2.775
+      },
+      {
+        "name": "senc",
+        "lat": 39.647,
+        "lon": 2.898
+      },
+      {
+        "name": "sineu",
+        "lat": 39.643,
+        "lon": 3.011
+      },
+      {
+        "name": "llubi",
+        "lat": 39.699,
+        "lon": 3.006
+      },
+      {
+        "name": "bini",
+        "lat": 39.688,
+        "lon": 2.845
+      },
+      {
+        "name": "cons",
+        "lat": 39.668,
+        "lon": 2.813
+      },
+      {
+        "name": "palma",
+        "lat": 39.57,
+        "lon": 2.65
+      }
+    ],
+    "cyclingPlaces": [
+      "Sineu",
+      "Binissalem"
+    ]
+  },
+  "day-1-extra-1": {
+    "title": "Talaia d'Albercutx watchtower",
+    "want": 5,
+    "radius": 1500,
+    "categories": [],
+    "spots": [
+      {
+        "name": "alb",
+        "lat": 39.932,
+        "lon": 3.119
+      }
+    ],
+    "cyclingPlaces": [
+      "Albercutx"
+    ]
+  },
+  "day-1-extra-2": {
+    "title": "Pollença old town",
+    "want": 5,
+    "radius": 1500,
+    "categories": [],
+    "spots": [
+      {
+        "name": "pol",
+        "lat": 39.877,
+        "lon": 3.016
+      }
+    ],
+    "cyclingPlaces": [
+      "Pollença"
+    ]
+  },
+  "day-2-extra-1": {
+    "title": "Puig Major tunnel via Gorg Blau",
+    "want": 5,
+    "radius": 1500,
+    "categories": [],
+    "spots": [
+      {
+        "name": "tunnel",
+        "lat": 39.8,
+        "lon": 2.775
+      }
+    ],
+    "cyclingPlaces": [
+      "Puig Major",
+      "Gorg Blau"
+    ]
+  },
+  "day-2-extra-2": {
+    "title": "Cala Tuent",
+    "want": 5,
+    "radius": 1500,
+    "categories": [],
+    "spots": [
+      {
+        "name": "tuent",
+        "lat": 39.843,
+        "lon": 2.773
+      }
+    ],
+    "cyclingPlaces": [
+      "Cala Tuent"
+    ]
+  },
+  "day-3-extra-1": {
+    "title": "Afternoon Coll de Femenia",
+    "want": 5,
+    "radius": 1500,
+    "categories": [],
+    "spots": [
+      {
+        "name": "fem",
+        "lat": 39.853,
+        "lon": 2.935
+      }
+    ],
+    "cyclingPlaces": [
+      "Coll de Femenia"
+    ]
+  },
+  "day-3-extra-2": {
+    "title": "Flat lanes to Sa Pobla",
+    "want": 5,
+    "radius": 1500,
+    "categories": [],
+    "spots": [
+      {
+        "name": "spobla",
+        "lat": 39.769,
+        "lon": 3.023
+      }
+    ],
+    "cyclingPlaces": [
+      "Sa Pobla"
+    ]
+  },
+  "day-4-extra-1": {
+    "title": "Coll de sa Batalla from Caimari",
+    "want": 5,
+    "radius": 1500,
+    "categories": [],
+    "spots": [
+      {
+        "name": "bat",
+        "lat": 39.806,
+        "lon": 2.888
+      }
+    ],
+    "cyclingPlaces": [
+      "Coll de sa Batalla",
+      "Lluc"
+    ]
+  },
+  "day-4-extra-2": {
+    "title": "Es Verger, on the Castell d'Alaró road",
+    "want": 5,
+    "radius": 1500,
+    "categories": [],
+    "spots": [
+      {
+        "name": "verger",
+        "lat": 39.727,
+        "lon": 2.797
+      }
+    ],
+    "cyclingPlaces": [
+      "Castell d'Alaró"
+    ]
+  },
+  "day-5-extra-1": {
+    "title": "Port de Valldemossa",
+    "want": 5,
+    "radius": 1500,
+    "categories": [],
+    "spots": [
+      {
+        "name": "pvall",
+        "lat": 39.719,
+        "lon": 2.589
+      }
+    ],
+    "cyclingPlaces": [
+      "Port de Valldemossa",
+      "Valldemossa"
+    ]
+  },
+  "day-5-extra-2": {
+    "title": "Port d'Andratx",
+    "want": 5,
+    "radius": 1500,
+    "categories": [],
+    "spots": [
+      {
+        "name": "pandr",
+        "lat": 39.544,
+        "lon": 2.39
+      }
+    ],
+    "cyclingPlaces": [
+      "Port d'Andratx"
+    ]
+  },
+  "day-6-extra-1": {
+    "title": "Puig Major from Sóller",
+    "want": 5,
+    "radius": 1500,
+    "categories": [],
+    "spots": [
+      {
+        "name": "tunnel",
+        "lat": 39.8,
+        "lon": 2.775
+      }
+    ],
+    "cyclingPlaces": [
+      "Puig Major"
+    ]
+  },
+  "day-6-extra-2": {
+    "title": "Coll de Sóller, north side",
+    "want": 5,
+    "radius": 1500,
+    "categories": [],
+    "spots": [
+      {
+        "name": "csoller",
+        "lat": 39.735,
+        "lon": 2.689
+      }
+    ],
+    "cyclingPlaces": [
+      "Coll de Sóller"
+    ]
+  },
+  "day-7-extra-1": {
+    "title": "Puig de Santa Magdalena",
+    "want": 5,
+    "radius": 1500,
+    "categories": [],
+    "spots": [
+      {
+        "name": "magd",
+        "lat": 39.735,
+        "lon": 2.945
+      }
+    ],
+    "cyclingPlaces": [
+      "Puig de Santa Magdalena"
+    ]
+  },
+  "day-7-extra-2": {
+    "title": "Santuari de Cura on Puig de Randa",
+    "want": 5,
+    "radius": 1500,
+    "categories": [],
+    "spots": [
+      {
+        "name": "cura",
+        "lat": 39.527,
+        "lon": 2.926
+      }
+    ],
+    "cyclingPlaces": [
+      "Puig de Randa",
+      "Santuari de Cura"
+    ]
+  }
+}
