@@ -3,6 +3,7 @@ import { ADDONS } from "./addons";
 
 const BASE: DayBase[] = [
 {n:1,date:"Saturday 26 September",title:"Cap de Formentor",base:"Port de Pollença",color:"#E0354B",band:"opener",pips:3,
+ gpx:{file:"gpx/day-1-formentor-cala-sant-vicenc.gpx",description:"Full route: Port de Pollença → Cap de Formentor → Cala Sant Vicenç → Port de Pollença."},
  start:"Late start, after bike set-up",lunch:"Light picnic",dinner:"7pm at STAY, a walk from the hotel",
  long:{km:60,m:1000,label:"60 km with Cala Sant Vicenç"},short:{km:40,m:850,label:"40 km lighthouse only"},
  summary:"An out-and-back along the island's north-eastern spine to the lighthouse, with sea on both sides for most of it. Cars are barred after 10am, so the late start buys quiet roads. The longer option adds the coves of Cala Sant Vicenç on the way home.",

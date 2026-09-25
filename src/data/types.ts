@@ -49,6 +49,7 @@ export interface DayBase {
   long: RideOption;
   short: RideOption | null;
   summary: string;
+  gpx?: { file: string; description: string };
   segs: string[][];
   labels: PlaceLabel[];
   profile: ProfilePoint[];

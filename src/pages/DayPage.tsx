@@ -33,6 +33,12 @@ export function DayPage({ n, opt, setOpt, go }: Props) {
       </div>
       <HeroPhoto photo={photos[0]} />
       <p className="intro">{d.summary}</p>
+      {d.gpx && (
+        <div className="route-download">
+          <a href={d.gpx.file} download={d.gpx.file.split("/").pop()}>Download Day {d.n} GPX</a>
+          <p>{d.gpx.description} Save the file to import into your cycling computer or route app.</p>
+        </div>
+      )}
       <div className="sched"><span><b>Start</b> {d.start}</span><span><b>Lunch</b> {d.lunch}</span><span><b>Dinner</b> {d.dinner}</span></div>
       <OptionToggle day={d} opt={opt} setOpt={setOpt} />
       <div className="tiles">

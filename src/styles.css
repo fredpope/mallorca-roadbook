@@ -103,6 +103,11 @@ footer{padding:26px 0 50px;border-top:1px solid var(--line);margin-top:30px}
 .crumbs .sep{margin:0 8px}.crumbs .here{color:var(--muted)}
 .daytitle{font-size:clamp(2.4rem,6vw,4.2rem)}
 .intro{font-size:1.1rem}
+.route-download{margin:18px 0;padding:16px;background:var(--panel);border:1px solid var(--line);border-radius:4px}
+.route-download a{display:inline-block;padding:10px 16px;background:var(--ink);color:var(--page);border-radius:4px;font-weight:600;text-decoration:underline;text-underline-offset:3px}
+.route-download a:hover{opacity:.85}
+.route-download a:focus-visible{outline:3px solid var(--ink);outline-offset:3px}
+.route-download p{margin:10px 0 0;font-size:.97rem}
 .dayhead{padding-top:14px}
 .addhead{border-left:10px solid;padding:4px 0 4px 18px;margin:16px 0 10px}
 .addhead .date{color:var(--muted)}
